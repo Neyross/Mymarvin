@@ -48,8 +48,6 @@ jenkins:
     local:
       allowsSignup: false
       users:
-        - id: admin
-          password: "admin"
         - id: chocolateen
           password: ${USER_CHOCOLATEEN_PASSWORD}
         - id: vaugie_g

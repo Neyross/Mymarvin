@@ -9,7 +9,6 @@ jenkins:
           - name: "admin"
             description: "Marvin master"
             permissions:
-              - "Overall/Read"
               - "Overall/Administer"
             assignments:
               - "chocolateen"

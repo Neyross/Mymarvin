@@ -11,7 +11,7 @@ jenkins:
         - id: i_dont_know
           password: ${USER_I_DONT_KNOW_PASSWORD}
         - id: nasso
-          password: ${USER_NASSO_PASSWORD}
+          password: ${USER_NASSO_PASS}
 
 jobs:
   - file: /usr/local/job_dsl.groovy

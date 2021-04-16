@@ -12,7 +12,6 @@ jenkins:
               - "Overall/Administer"
             assignments:
               - "chocolateen"
-              - "admin"
           - name: "ape"
             description: "Pedagogical team member"
             permissions:
